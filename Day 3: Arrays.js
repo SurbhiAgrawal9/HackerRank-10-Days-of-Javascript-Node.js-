@@ -1,6 +1,7 @@
 // Explanation 0
+//Second Largest Value
 
-// Given the array , we see that the largest value in the array is  and the <h1> second largest </h1> value is . Thus, we return  as our answer.
+// Given the array , we see that the largest value in the array is  and the  second largest value is . Thus, we return  as our answer.
 
 
 'use strict';
